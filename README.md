@@ -57,12 +57,7 @@
   <!-- Replace the URLs with your actual profiles -->
   <a href="https://www.linkedin.com/in/safwan-shaikh-715007250/" target="_blank" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-<p align="center">
-  <a href="mailto:safwanshaikh053@gmail.com" title="Gmail">
-    <img src="https://skillicons.dev/icons?i=gmail" width="60" />
-  </a>
-</p>
+<a href="mailto:safwanshaikh053@gmail.com" title="Gmail" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   
 </p>
 
