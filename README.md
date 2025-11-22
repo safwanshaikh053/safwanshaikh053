@@ -1,7 +1,27 @@
-<!-- Typing Animation -->
+<!-- Enhanced animated intro (paste into your README) -->
+<p align="center">
+  <!-- Waving gradient heading -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Hi+I%27m+Safwan+Shaikh&fontSize=30&fontColor=ffffff&color=gradient&animation=twirl" alt="Waving banner" />
+</p>
+
+<!-- Typing animation with a slightly slower cadence and subtitle -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=1A73E8&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Safwan+Shaikh;Software+Developer;JAVA+Full-Stack+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?size=30&duration=4200&pause=800&center=true&vCenter=true&width=780&lines=Hi+👋,+I'm+Safwan+Shaikh;Software+Developer;JAVA+%7C+.NET+%7C+React+%7C+MySQL" alt="Typing animation" />
 </h1>
+
+<!-- Decorative animated capsule -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=60&text=Building+Scalable+Web+Apps&fontSize=18&color=gradient&animation=twirl" alt="Subtitle capsule" />
+</p>
+
+<!-- Your custom banner (local file you uploaded) — treats it as a pleasant background/hero image -->
+<p align="center">
+  <img src="/mnt/data/A_professional_banner_graphic_for_Safwan_Shaikh_fe.png" alt="Safwan banner" width="820" style="border-radius:12px;box-shadow:0 12px 40px rgba(0,0,0,0.6)"/>
+</p>
+
+<!-- Small animated icon row to add motion under the banner -->
+
+
 
 ---
 
