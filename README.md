@@ -24,7 +24,7 @@
   <a href="#" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
   <a href="#" title="React"><img src="https://skillicons.dev/icons?i=react" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
   <a href="#" title=".NET"><img src="https://skillicons.dev/icons?i=dotnet" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
-  <a href="#" title="C#"><img src="https://skillicons.dev/icons?i=csharp" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="#" title="C#"><img src="https://skillicons.dev/icons?i=cs" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
   <a href="#" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
   <a href="#" title="Express"><img src="https://skillicons.dev/icons?i=express" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
 </p>
