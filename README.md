@@ -6,7 +6,8 @@
 
 <!-- Typing animation with a slightly slower cadence and subtitle -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=30&duration=4200&pause=800&center=true&vCenter=true&width=780&lines=Hi+👋,+I'm+Safwan+Shaikh;Software+Developer;JAVA+%7C+.NET+%7C+React+%7C+MySQL" alt="Typing animation" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=1A73E8&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Safwan+Shaikh;Software+Developer;JAVA+Full-Stack+Learner" />
 </h1>
 
 <!-- Decorative animated capsule -->
