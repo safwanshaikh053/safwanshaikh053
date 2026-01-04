@@ -18,8 +18,7 @@
 
 ## 🚀 About Me  
 - 🎓 Postgraduate student learning everything *from scratch*  
-- ✅ Completed *C++*, *SQL*, *MERN* , *C#*, *ASP.Net MVC*& *DotNet Framework*  
-- 🌱 Currently learning *Java& Oracle*  
+- ✅ Completed *Java*,*C++*, *SQL*, *C#*, *ASP.Net MVC*& *DotNet Framework*    
 - 🎯 Aspiring *Full-Stack Developer*  
 
 ---
